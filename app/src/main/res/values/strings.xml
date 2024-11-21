@@ -12,7 +12,7 @@
     <string name="important_task">Important task</string>
     <string name="error">Error</string>
     <string name="error_name">Name cannot be empty</string>
-    <string name="yes">Ok</string>
+    <string name="yes">OK</string>
 
     <!-- Content Descriptions -->
     <string name="cd_task_important">Important task</string>

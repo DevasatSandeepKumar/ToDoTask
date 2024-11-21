@@ -47,11 +47,6 @@ class TodoAddViewModel @Inject constructor(
         handle[TODO_NAME] = value
     }
 
-    fun onImportantChange(value: Boolean) {
-        important = value
-        handle[TODO_IMPORTANT] = value
-    }
-
     fun onSaveTodo() {
         viewModelScope.launch {
             if (name.isBlank()) {
