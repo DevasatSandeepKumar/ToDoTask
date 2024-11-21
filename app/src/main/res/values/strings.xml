@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ToDoAssignment</string>
+
+    <!-- TodoList -->
+    <string name="tasks">Tasks</string>
+    <string name="search">Search…</string>
+
+
+    <!-- TodoAdd -->
+    <string name="new_task">New task</string>
+    <string name="task_name">Task name</string>
+    <string name="important_task">Important task</string>
+    <string name="error">Error</string>
+    <string name="error_name">Name cannot be empty</string>
+    <string name="yes">Ok</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_task_important">Important task</string>
+    <string name="cd_task_add">Add task</string>
+    <string name="cd_back_button">Navigate back</string>
+    <string name="cd_done_button">Save ToDo</string>
+    <string name="cd_app_icon">App icon</string>
+    <string name="cd_search_button">Search ToDos</string>
+</resources>
