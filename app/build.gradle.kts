@@ -119,6 +119,8 @@ dependencies {
 
     // hilt
     implementation(libs.hilt)
+    implementation(libs.ui.test.junit4.android)
+    implementation(libs.compose.material)
     ksp(libs.dagger.compiler)
 
     // coroutines
