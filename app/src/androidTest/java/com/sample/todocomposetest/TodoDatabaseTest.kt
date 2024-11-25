@@ -89,7 +89,7 @@ class ToDatabaseTest : TestCase() {
     }
 
     @Test
-    fun updateWord_returnsTrue() = runBlocking {
+    fun update_returnsTrue() = runBlocking {
         val name = TodoModel(id = 1, "Mary")
         dao.insertTodo(name.toEntity())
 
